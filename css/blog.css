@@ -1,0 +1,18 @@
+.big{
+    background-color: antiquewhite;
+}
+
+.yes{
+    background-color:aquamarine;
+    font-size: 20px;   
+}
+
+.log{
+    
+    position:fixed;
+    backface-visibility: hidden;
+    right: 0%;
+    top: 10%;
+
+    float: right;
+}

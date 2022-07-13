@@ -1,0 +1,41 @@
+.nooo1{
+    border-top: 5px red solid;
+    border-bottom:5px red solid;
+
+    background-color: antiquewhite;
+    color: blue;
+    text-decoration:underline;
+    padding: 10px;
+    margin-top: 50px;
+
+    float: left;
+    border: 5px gray solid;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.nooo2{
+    border-top: 5px red solid;
+    border-bottom:5px red solid;
+
+    background-color: antiquewhite;
+    color: blue;
+    text-decoration:underline;
+    padding: 10px;
+    margin-top: 50px;
+
+    float: left;
+    border: 5px gray solid;
+    box-sizing: border-box;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+
+#fixbutton{
+position: fixed;
+right: 0;
+bottom: 50%;
+}
