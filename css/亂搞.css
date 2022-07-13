@@ -1,0 +1,16 @@
+#fixbutton1{
+    position: fixed;
+    right: 0;
+    bottom: 45%;
+    }
+
+#fixbutton2{
+    position: fixed;
+    right: 0;
+    bottom: 50%;
+    }
+#fixbutton3{
+    position: fixed;
+    right: 0;
+    bottom: 55%;
+    }
